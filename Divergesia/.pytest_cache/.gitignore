@@ -1,0 +1,25 @@
+
+
+# Entorno virtual
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos generados
+*.log
+*.sqlite3
+
+# Configuración de IDE
+.vscode/
+.idea/
+
+# Archivos de prueba )
+*.png
+*.jpg
