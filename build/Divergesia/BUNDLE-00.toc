@@ -1,0 +1,3 @@
+([('Divergesia',
+   '/Users/dennys/Programación/visual_Studio/Divergesia/dist/Divergesia',
+   'EXECUTABLE')],)
